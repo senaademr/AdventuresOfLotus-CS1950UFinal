@@ -1,0 +1,18 @@
+#ifndef TEXTALIGNMENT_H
+#define TEXTALIGNMENT_H
+
+enum class TextAlignment {
+    TOP_LEFT,
+    TOP_CENTER,
+    TOP_RIGHT,
+    CENTER_LEFT,
+    CENTER_CENTER,
+    CENTER_RIGHT,
+    BOTTOM_LEFT,
+    BOTTOM_CENTER,
+    BOTTOM_RIGHT,
+    NONE
+};
+
+#endif // TEXTALIGNMENT_H
+

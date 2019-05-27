@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/meshes">
+        <file>MagmaElemental.fbx</file>
+        <file>handozer.fbx</file>
+        <file>SpaceElemental.fbx</file>
+        <file>Spider.fbx</file>
+    </qresource>
+</RCC>

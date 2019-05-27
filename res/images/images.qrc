@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>grass.png</file>
+        <file>terrain.png</file>
+        <file>crosshair.png</file>
+        <file>BaseMesh_Anim.fbx</file>
+        <file>ice.png</file>
+        <file>rocky.png</file>
+        <file>minecraftSand.png</file>
+        <file>minecraftRock.png</file>
+        <file>screenstomp.png</file>
+        <file>screenpunch2.png</file>
+        <file>screenpunch1.png</file>
+    </qresource>
+</RCC>
